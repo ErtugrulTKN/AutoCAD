@@ -1,0 +1,38 @@
+ŞEKİL-1
+
+1-İlk şekil için cirle senter diameter kullandık daireyi çizdik. 50/70/80
+2-dairelerin içlerindeki küçük daireler için iki noktası bilinen daire çizeceğimiz için 2p alt taraftan seçeneğini seçtik
+3-küçük daire Objeyi çoğatlmak için AR komutunu giriyoruz objeyi seçip enter diyoruz
+ardından POlar ı seçip ortak dairelerin merkezine tıklıyoruz böylelikle.
+altı tane küçük daireyi kendisi oluşturuyor.
+
+ŞEKİL-2
+1-ikinci şekil için 32lik cirle senter diameter çizdik. 32/40/70
+2-40 çaplık dairenin kenarlarına 'C' enter diyerek 9 çaplık quadrune ekledik.
+3-ardından 9 çaplık daireyi seçip AR komutu ile POlar 5 yaptık.
+4-İstenmeyen kısımları silmek içinde klavyeden x (Explode) komutunu girip 5 daireyi seçiyoruz
+5- ardından Tr enter diyerek istenmeyen kısımları siliyoruz.
+6-son olarak 40 lık daireyi çizgili şekilde yapıyoruz.
+
+Şekil-3
+1-cirle senter diameter 70 çizdik.
+2- merkezden 35 lik yay çizdik MI (Mirror komutu ile çoğalttık.)
+3-AR POlar komutu ile 8 adet çoğalttık.
+
+şekil-4
+1-Çap 80 daire yaptık
+2-merkeze 40lık yay çektik.
+3- AR POlar 4 yapıp bitirdik.
+
+Şekil-5
+1-20/44/70 üç tane daire çizdik
+2-c (circle) enter komutu ile 44 çaplık daire üzerine 6 yarıçaplık daire kondurduk.
+3-Ar POlar komutu ile 3 tane çoğalttık.
+4-son olarak 44 lük daireyi çizgili yaptık.
+
+şekil-6
+1-20/40/50/70 lik daireler çizdik
+2-en dış kısıma poligon komutu ile 35 yarıçaplı 6 gen oluşturduk.
+3-merkezden yukarı çizgi çizdik ve 5 br sağa sola kopyaladık ve trimledik.
+4-Ar komutu ile çizgilerden 6 tane yaptık.
+5-ve gereksiz yerleri trimledik.
